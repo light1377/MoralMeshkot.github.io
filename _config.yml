@@ -23,6 +23,7 @@ plugins:
 author:
   # Biographic information
   avatar           : "proflepic01.jpg"
+  #profile pic not showing
   name             : "Moral"
   pronouns         : "she/her"
   bio              : "Maths Graduate, Interested in health, finess, and solving problems"
@@ -34,9 +35,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -44,8 +45,10 @@ author:
 
   # Repositories and software development
   bitbucket        : "moral-26"
+  #bitbucket link not working 
   codepen          : https://codepen.io/Moral1729
-  dribbble         : moral-mesh
+  #codepen link not working
+  # dribbble         : moral-mesh
   github           : "light1377"
   kaggle           : moralmesh
   stackoverflow    : https://stackoverflow.com/users/30860953/moral-mesh   
