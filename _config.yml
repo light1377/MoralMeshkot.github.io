@@ -9,7 +9,7 @@ title                    : "Moral Meshkot"
 title_separator          : "-"
 name                     : &name "Moral Meshkot"
 description              : &description "On this website you can see my work, experiences and interests"
-url                      : https://MoralMeshkot.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://MoralMeshkot.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -18,11 +18,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "\profilepic01.jpg"
   name             : "Moral"
-  pronouns         : "she/her"  
+  pronouns         : "she/her"
   bio              : "Maths Graduate, Interested in health, finess, and solving problems"
-  location         : "Earth"
+  location         : "UK"
   employer         : "Vibe Teaching"
   uri              : # URL
   email            : "moralm.1729@gmail.com" 
@@ -34,21 +34,21 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : https://bitbucket.org/moral-26/workspace/overview/
   codepen          : https://codepen.io/Moral1729
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  dribbble         : moral-mesh
+  github           : "light1377"
+  kaggle           : moralmesh
   stackoverflow    : https://stackoverflow.com/users/30860953/moral-mesh   
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : MoralMeshkot
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
