@@ -43,7 +43,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : https://bitbucket.org/moral-26/workspace/overview/
+  bitbucket        : "moral-26"
   codepen          : https://codepen.io/Moral1729
   dribbble         : moral-mesh
   github           : "light1377"
